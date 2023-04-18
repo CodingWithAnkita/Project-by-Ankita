@@ -1,0 +1,106 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.hero{
+    /* background-image: url('./pexels-mikhail-nilov-9242898.jpg'); */
+    position: relative;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-size: cover;
+    background-position: center;
+}
+
+.myimg{
+     background-position: center;
+    background-size: cover;
+}
+
+.margin{
+    margin-right: 1rem;
+}
+
+.top{
+    margin-bottom: 10rem;
+}
+.brown{
+    color: rgba(255, 255, 0, 0.365);
+}
+
+.img{
+    background-image: url('./IMG-20211009-WA0001-scale-2.jpg');
+}
+
+.mt{
+    margin-top: 11rem;
+}
+
+.img-fluid{
+    height: 50vh;
+    width: 100vh;
+}
+
+
+.panel h1{
+    margin-left: 5rem;
+}
+.pcc h2{
+    margin-left: 5rem;
+}
+
+.pcc1{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-left: 5rem;
+    margin-top: 4rem;
+}
+
+/* .pcc1 p{
+    margin-right: 20rem;
+} */
+
+.mcc1{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-left: 5rem;
+    margin-top: 4rem;
+}
+.mcc h2{
+    margin-left: 5rem;
+}
+
+.plc h2{
+    margin-left: 5rem;
+}
+
+.plc1{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-left: 5rem;
+    margin-top: 4rem;
+}
+
+.APFC h2{
+    margin-left: 5rem;
+}
+
+.APFC1{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-left: 5rem;
+    margin-top: 4rem;
+}
+
+
+.product:hover{
+background-color: rgba(0, 0, 0, 0.176);
+}
+
+
